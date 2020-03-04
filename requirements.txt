@@ -1,0 +1,7 @@
+flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-login
+psycopg2
+gunicorn
